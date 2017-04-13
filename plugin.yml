@@ -1,0 +1,15 @@
+main: io.github.phantoman316.Main
+name: MineConomy
+version: 1.0
+auther: phantoman316
+description: Adds a currency system to the minecraft server.
+commands:
+  money: 
+    usage: /money
+    permission: mineconomy.money
+    permission-message: you do not have permission to use command.
+  m:
+    usage: /m
+    permission: mineconomy.m
+    permission-message: you do not have permission to use command.
+    
